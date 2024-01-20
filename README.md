@@ -16,7 +16,7 @@ To get started with ZapTrim, follow these steps:
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/your-username/ZapTrim.git
+   git clone https://github.com/wizaye/ZapTrim.git
    ```
 
 2. **Install Dependencies:**
