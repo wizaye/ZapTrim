@@ -6,7 +6,7 @@ const URL=require('./models/url');
 const staticRoute=require('./routes/staticRouter');
 const app=express();
 const PORT=8080;
-connectToMongo('mongodb+srv://vijayendhergatla21:oVJ8omfDL4jiwktX@cluster0.zk6ci0t.mongodb.net/?retryWrites=true&w=majority')
+connectToMongo('#YOUR_MONGODB_URL')
 .then(()=>console.log('Connected to DB'));
 
 app.set('view engine','ejs');
