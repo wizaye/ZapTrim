@@ -53,6 +53,4 @@ If you encounter any issues or have questions, feel free to [open an issue](http
 
 ---
 
-**Note:** Replace "your-username" with your GitHub username in the repository URL.
-
 Happy shortening with ZapTrim! 🚀
