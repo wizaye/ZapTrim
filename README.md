@@ -33,7 +33,7 @@ To get started with ZapTrim, follow these steps:
    npm start
    ```
 
-   The app should now be running locally. Visit `http://localhost:3000` in your web browser.
+   The app should now be running locally. Visit `http://localhost:8080` in your web browser.
 
 ## Configuration
 
